@@ -32,14 +32,16 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Software as a service:
 
- * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
- * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service.
- * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
- * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
- * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
- * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
  * [Action Network](https://actionnetwork.org) - A nonprofit digital organizing toolset for progressive organizations. Includes petitions, advocacy, fundraising, mass email, and more for free or cheap.
+ * [Change.org](https://www.change.org/) Petition site. Chose a target, make a petition, send it to your friends. If they get traction, Change.org has staff that can provide support. (They also have org accounts, that allow groups to do branded pages and export contact info of signers.)
+* [Contact Congress (FFTF)](http://congress.fightforthefuture.org/) - Used to send emails to members of the US Congress. This is Fight for the Future's hosted-version of the open sources Contact Congress. Ideal for organizations that send a lot of emails to congress, but who don't have tech staff who can install and maintain their own version of the open source software.
+ * [ControlShift](https://www.controlshiftlabs.com/) - Distributed petitions, events and local groups for progressive advocacy organizations. Tools to help make campaigns more participatory.
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)) - Send messages to members of the US Senate and House of Representatives. 
+ * [Do Gooder](https://dogooder.co) - Software to lobby policy makers and build progressive movements. 12 digital advocacy tools inc. petitions, targetted email, call-ins, fundraising, selfie walls & more. Political databases updated weekly in US, UK, Canadan and Australia. Low cost ad-supported plans through to fully custimisable pro plans.
+ * [Loomio](https://www.loomio.org/) - Tool for collaborative decision-making in groups. Note: Loomio's [code is also open source](https://github.com/loomio/loomio), but it's generally used as a hosted service.
+ * [Thunderclap](http://thunderclap.it) - use this to coordinate a group sharing the same message on social media at the same time. You write a tweet, make a campaign, and ask people to pledge to support your campaign. When you reach your goal of a certain number of pledgers, your tweet will automatically be posted to each pledger's social media.
+ * [Riseup](http://riseup.net/) - A provider of communication tools for activists, including free webmail, chat, and VPN
+
  
 ## Operating Systems:
 
